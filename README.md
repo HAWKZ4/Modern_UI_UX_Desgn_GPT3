@@ -1,2 +1,1 @@
-# Gpt-3
-Gpt-3 Template
+# Gpt-3 Home Page created with React and it's fully responsive
