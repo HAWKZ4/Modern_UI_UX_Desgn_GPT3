@@ -1,5 +1,5 @@
 # GPT-3 Product Introduction Mockup
-![gpt3robot netlify app_ (1)](https://github.com/HAWKZ4/Modern_UI_UX_Desgn_GPT3/assets/108879264/2c5582cb-36b4-433c-aa37-fedafc2a33de)
+![gpt3robot netlify app_ (1)](https://github.com/HAWKZ4/Modern_UI_UX_Design_GPT3/assets/108879264/2c5582cb-36b4-433c-aa37-fedafc2a33de)
 
 This project is a mockup of an introduction page for a product, specifically designed to showcase GPT-3.
 It is built using React and demonstrates skills in design with gradient colors for an appealing look and fully responsive design.
@@ -36,11 +36,11 @@ It is built using React and demonstrates skills in design with gradient colors f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/HAWKZ4/Modern_UI_UX_Desgn_GPT3
+    git clone https://github.com/HAWKZ4/Modern_UI_UX_Desgin_GPT3
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Modern_UI_UX_Desgn_GPT3
+    cd Modern_UI_UX_Design_GPT3
     ```
 3. Install the dependencies:
     ```sh
